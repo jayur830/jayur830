@@ -1,4 +1,20 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Just%20do%20it!&fontSize=64&animation=twinkling)
+
+## About me
+
+
+
+## Skills
+
+
+
+## Contact
+
+
+
+## Blog
+
+
 
 <!--
 **jayur830/jayur830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
