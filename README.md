@@ -74,7 +74,7 @@
 ## Contact
 
 [![Static Badge](https://img.shields.io/badge/github-181717?logoColor=white&logo=github&link=https://github.com/jayur830)](https://github.com/jayur830)
-[![Static Badge](https://img.shields.io/badge/gmail-EA4335?logoColor=white&logo=gmail&link=jayur830@gmail.com)](jayur830@gmail.com)
+[![Static Badge](https://img.shields.io/badge/gmail-EA4335?logoColor=white&logo=gmail&link=jayur830@gmail.com)](mailto:jayur830@gmail.com)
 [![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?logoColor=white&logo=linkedin&link=https://www.linkedin.com/in/%EC%9E%AC%EC%97%B4-%EC%9D%B4-2a1295223/)](https://www.linkedin.com/in/%EC%9E%AC%EC%97%B4-%EC%9D%B4-2a1295223/)
 
 ## Blog
