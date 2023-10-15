@@ -73,13 +73,13 @@
 
 ## Contact
 
-![Static Badge](https://img.shields.io/badge/github-181717?logoColor=white&logo=github&link=https://github.com/jayur830)
-![Static Badge](https://img.shields.io/badge/gmail-EA4335?logoColor=white&logo=gmail&link=jayur830@gmail.com)
-![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?logoColor=white&logo=linkedin&link=https://www.linkedin.com/in/%EC%9E%AC%EC%97%B4-%EC%9D%B4-2a1295223/)
+[![Static Badge](https://img.shields.io/badge/github-181717?logoColor=white&logo=github&link=https://github.com/jayur830)](https://github.com/jayur830)
+[![Static Badge](https://img.shields.io/badge/gmail-EA4335?logoColor=white&logo=gmail&link=jayur830@gmail.com)](jayur830@gmail.com)
+[![Static Badge](https://img.shields.io/badge/linkedin-0A66C2?logoColor=white&logo=linkedin&link=https://www.linkedin.com/in/%EC%9E%AC%EC%97%B4-%EC%9D%B4-2a1295223/)](https://www.linkedin.com/in/%EC%9E%AC%EC%97%B4-%EC%9D%B4-2a1295223/)
 
 ## Blog
 
-![Static Badge](https://img.shields.io/badge/notion-000000?logoColor=white&logo=notion&link=https://jumbled-seat-0ac.notion.site/2aaa7273cb3b4df88017cd5ebbde1115?pvs=4)
+[![Static Badge](https://img.shields.io/badge/notion-000000?logoColor=white&logo=notion&link=https://jumbled-seat-0ac.notion.site/2aaa7273cb3b4df88017cd5ebbde1115?pvs=4)](https://jumbled-seat-0ac.notion.site/2aaa7273cb3b4df88017cd5ebbde1115?pvs=4)
 
 <!--
 **jayur830/jayur830** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
