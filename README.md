@@ -35,7 +35,7 @@
 ![Static Badge](https://img.shields.io/badge/docker-00A3FF?logoColor=white&logo=docker)
 ![Static Badge](https://img.shields.io/badge/github%20actions-4A7EBF?logoColor=white&logo=githubactions)
 
-### Middlw
+### Middle
 
 💻 빠르게 개발해볼 수 있는 정도에요.
 
